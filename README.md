@@ -4,18 +4,19 @@
 
 
 # Motto
-- It is a SpringBoot application which provide REST APIs to user for posting blog, view blog etc.
+- It is a SpringBoot application which provide REST APIs to admin for posting, updating, deleting blog whereas users can comment on post.
 
 
 # Features :
 - Authorization is added for users using Spring Security.
-- Logged In User can post blogs and view all blogs.
+- Logged In Admin can post, update, delete blog.
+- Logged In User can view blogs and comment on blogs.
 
 # Responsibility : 
 - Individual Project
 
 # Tech-Stack :
-  Java | SpringBoot | Spring Security | Lombok | PostMan | MySQL | Git
+  Java | SpringBoot | Spring Security | Lombok | PostMan | MySQL | Git | Swagger | Mapper
   
 # Deployment :
 
