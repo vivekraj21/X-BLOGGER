@@ -4,7 +4,7 @@
 
 
 # Motto
-- It is a SpringBoot application which provide REST APIs to admin for posting, updating, deleting blog whereas users can comment on post.
+- It is a SpringBoot application which provide REST APIs to admin for posting, updating, deleting blog whereas users can read and comment on post.
 
 
 # Features :
@@ -21,13 +21,13 @@
 # Deployment :
 
 - Copy the code and start it into your STS.
-- Then make change in application.properties file according to below image.
-![p1](https://user-images.githubusercontent.com/103635442/224430921-04e25116-68d9-4075-9099-bbca4fee2fff.png)
+- Then make change in application.properties file according to your mySQL username and password.
 
 - Then run the application as Spring Boot App.
-- Once it starts,we can open PostMan to test the application.
-- 1) To register user :
-![p1](https://user-images.githubusercontent.com/103635442/224434119-5c10beb0-117a-498f-b728-98682aab4a21.png)
+- Once it starts,you can test your APIs on postman or swagger.
+- 1) To test on swagger :
+![p1](![swagger1](https://user-images.githubusercontent.com/103635442/234675599-ebcd1c43-4053-46bd-a66c-65ce9733ad0c.png))
+
 
 - 2) To Login User :
 ![login](https://user-images.githubusercontent.com/103635442/224434228-068e2a60-6f3d-48a8-8aec-cbc7a98b9232.png)
