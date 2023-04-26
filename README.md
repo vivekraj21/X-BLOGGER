@@ -1,6 +1,6 @@
 # X-Blogger
 
-![p1](https://play-lh.googleusercontent.com/TxhHTR9swI-FYOeT_9Doi9cqN1AtkdZDNP5VoKz3ayJSAv-IUEON9skyQOoPhA7QHZlr)
+![p1](https://www.thoughtco.com/thmb/u-gOIiVS6lpM0qwOUIHywfm9VOA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger_logo_wordmark-673823a10bf8471f9e4e03d320cef539.jpg)
 
 
 # Motto
