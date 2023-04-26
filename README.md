@@ -1,6 +1,6 @@
 # X-Blogger
 
-![p1](https://user-images.githubusercontent.com/103635442/224432448-125fd142-b0b1-4660-81f5-1fb5c0653c93.jpg)
+![p1](https://play-lh.googleusercontent.com/TxhHTR9swI-FYOeT_9Doi9cqN1AtkdZDNP5VoKz3ayJSAv-IUEON9skyQOoPhA7QHZlr)
 
 
 # Motto
