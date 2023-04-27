@@ -25,8 +25,10 @@
 
 - Then run the application as Spring Boot App.
 - Once it starts,you can test your APIs on postman or swagger.
-- 1) To test on swagger :
+- To test on swagger :
+
 ![swagger1](https://user-images.githubusercontent.com/103635442/234675599-ebcd1c43-4053-46bd-a66c-65ce9733ad0c.png)
+
 
 
 - 2) To Login User :
