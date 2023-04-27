@@ -18,6 +18,10 @@
 # Tech-Stack :
   Java | SpringBoot | Spring Security | Lombok | PostMan | MySQL | Git | Swagger | Mapper
   
+# Entity Diagram
+
+![entity diagram](https://user-images.githubusercontent.com/103635442/234903458-f2f86d71-9732-4308-ab18-a16ac01dfd50.png)
+  
 # Deployment :
 
 - Copy the code and start it into your STS.
